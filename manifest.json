@@ -1,8 +1,8 @@
 {
     "name": "covid",
     "short_name": "covid",
-    "start_url": ".",
-    "display": "minimal-ui",
+    "start_url": "/covid-web-app",
+    "display": "fullscreen",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Covid-19 - Informazioni e utilità",
