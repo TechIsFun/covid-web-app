@@ -1,8 +1,8 @@
 {
     "name": "covid",
     "short_name": "covid",
-    "start_url": "/covid-web-app",
-    "display": "fullscreen",
+    "start_url": "https://www.andreamaglie.com/covid-web-app",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "Covid-19 - Informazioni e utilità",
